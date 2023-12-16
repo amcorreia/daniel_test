@@ -1,2 +1,2 @@
-hello test
-hello again
+
+print("Helloe again")
